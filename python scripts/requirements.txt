@@ -1,0 +1,9 @@
+mgarch
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+distfit
+# tensorflow-probability
+# tensorflow
